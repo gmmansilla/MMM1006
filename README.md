@@ -1,4 +1,3 @@
-# Título
 ## Impacto de los servicios prehospitalarios en la mortalidad y letalidad en accidentes de tránsito en Chile
 
 Repositorio de organización, documentación y gestión del proyecto de investigación, creado en el marco de la actividad práctica de ciencia abierta del curso **Diseño y Gestión de Proyecto de Investigación** (Departamento de Salud Pública).
